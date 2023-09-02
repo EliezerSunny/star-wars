@@ -7,5 +7,6 @@
 1. `apt-get update && apt-get upgrade -y`
 2. `apt-get install wget -y`
 3. `git clone https://github.com/Adetunjieliazer/star-wars.git`
-4. `./star-wars`
+4. `chmod u+x star-wars`
+5. `./star-wars`
 
